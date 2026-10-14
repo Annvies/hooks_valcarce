@@ -7,6 +7,7 @@ import sys
 # holi como están gente del internet jijijuju 
 # mentira voy en la taza
 # xsdcs
+# se logró!
 def verificar_push(comando):
     # Incluye git push, git.exe push y opciones globales como git -C ruta push.
     if not re.search(r"\bgit(?:\.exe)?\b[^\r\n;&|]*\bpush\b", comando, re.IGNORECASE):
