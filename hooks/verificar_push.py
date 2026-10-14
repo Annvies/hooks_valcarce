@@ -4,7 +4,8 @@ import re
 import subprocess
 import sys
 
-# holi como están gente del internet jijijuju
+# holi como están gente del internet jijijuju 
+# mentira voy en la taza
 # xsdcs
 def verificar_push(comando):
     # Incluye git push, git.exe push y opciones globales como git -C ruta push.
